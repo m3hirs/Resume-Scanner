@@ -1,0 +1,275 @@
+{
+  "categories": {
+    "Programming Languages": {
+      "skills": [
+        "Python", "Java", "JavaScript", "TypeScript", "C++", "C#", "C",
+        "Go", "Rust", "Ruby", "PHP", "Swift", "Kotlin", "Scala", "R",
+        "MATLAB", "Perl", "Lua", "Dart", "Shell", "Bash", "PowerShell",
+        "Objective-C", "Haskell", "Elixir", "Clojure", "F#", "Groovy",
+        "Visual Basic", "Assembly", "COBOL", "Fortran", "Julia"
+      ],
+      "aliases": {
+        "JS": "JavaScript",
+        "TS": "TypeScript",
+        "C plus plus": "C++",
+        "Cplusplus": "C++",
+        "CSharp": "C#",
+        "Golang": "Go",
+        "VB": "Visual Basic",
+        "VB.NET": "Visual Basic",
+        "ObjC": "Objective-C",
+        "Objective C": "Objective-C"
+      }
+    },
+    "Frameworks & Libraries": {
+      "skills": [
+        "React", "Angular", "Vue.js", "Svelte", "Next.js", "Nuxt.js",
+        "Django", "Flask", "FastAPI", "Spring Boot", "Spring",
+        "Node.js", "Express.js", "NestJS", "Koa",
+        "TensorFlow", "PyTorch", "Scikit-learn", "Keras",
+        "Pandas", "NumPy", "SciPy", "Matplotlib",
+        "jQuery", "Bootstrap", "Tailwind CSS", "Material UI",
+        ".NET", "ASP.NET", "Entity Framework",
+        "Laravel", "Symfony", "CodeIgniter",
+        "Ruby on Rails", "Sinatra",
+        "Flutter", "React Native", "Ionic", "Xamarin",
+        "Electron", "Qt", "Hibernate", "MyBatis",
+        "Redux", "MobX", "Zustand",
+        "Hugging Face", "OpenCV", "NLTK", "spaCy",
+        "LangChain", "LlamaIndex",
+        "Celery", "Airflow", "Spark", "Hadoop"
+      ],
+      "aliases": {
+        "ReactJS": "React",
+        "React.js": "React",
+        "AngularJS": "Angular",
+        "VueJS": "Vue.js",
+        "Vue": "Vue.js",
+        "NextJS": "Next.js",
+        "NuxtJS": "Nuxt.js",
+        "NodeJS": "Node.js",
+        "Node": "Node.js",
+        "ExpressJS": "Express.js",
+        "Express": "Express.js",
+        "Sklearn": "Scikit-learn",
+        "scikit learn": "Scikit-learn",
+        "Rails": "Ruby on Rails",
+        "RoR": "Ruby on Rails",
+        "Tailwind": "Tailwind CSS",
+        "MUI": "Material UI",
+        "ASP.NET Core": "ASP.NET",
+        "Apache Spark": "Spark",
+        "Apache Hadoop": "Hadoop",
+        "Apache Airflow": "Airflow",
+        "Apache Celery": "Celery"
+      }
+    },
+    "Databases": {
+      "skills": [
+        "MySQL", "PostgreSQL", "MongoDB", "Redis", "Cassandra",
+        "Oracle", "SQL Server", "SQLite", "DynamoDB",
+        "Elasticsearch", "Neo4j", "Firebase", "CouchDB",
+        "MariaDB", "Memcached", "InfluxDB", "Supabase",
+        "Snowflake", "BigQuery", "Redshift", "Clickhouse",
+        "SQL", "NoSQL", "GraphQL", "PL/SQL"
+      ],
+      "aliases": {
+        "Postgres": "PostgreSQL",
+        "Mongo": "MongoDB",
+        "MSSQL": "SQL Server",
+        "MS SQL": "SQL Server",
+        "Microsoft SQL Server": "SQL Server",
+        "Oracle DB": "Oracle",
+        "Oracle Database": "Oracle",
+        "AWS DynamoDB": "DynamoDB",
+        "Amazon DynamoDB": "DynamoDB",
+        "Google BigQuery": "BigQuery",
+        "Amazon Redshift": "Redshift",
+        "ES": "Elasticsearch"
+      }
+    },
+    "Cloud & DevOps": {
+      "skills": [
+        "AWS", "Azure", "Google Cloud", "Docker", "Kubernetes",
+        "Jenkins", "GitLab CI", "GitHub Actions", "CircleCI",
+        "Terraform", "Ansible", "Puppet", "Chef",
+        "Heroku", "Vercel", "Netlify", "DigitalOcean",
+        "Nginx", "Apache", "Linux", "Unix",
+        "CI/CD", "Microservices", "Serverless",
+        "CloudFormation", "Pulumi",
+        "Prometheus", "Grafana", "Datadog", "New Relic",
+        "ELK Stack", "Splunk",
+        "Vagrant", "Packer",
+        "AWS Lambda", "EC2", "S3", "ECS", "EKS",
+        "Azure DevOps", "Azure Functions",
+        "Cloud Run", "Cloud Functions",
+        "Istio", "Envoy", "Consul", "Vault"
+      ],
+      "aliases": {
+        "Amazon Web Services": "AWS",
+        "GCP": "Google Cloud",
+        "Google Cloud Platform": "Google Cloud",
+        "K8s": "Kubernetes",
+        "k8s": "Kubernetes",
+        "GH Actions": "GitHub Actions",
+        "Gitlab CI/CD": "GitLab CI",
+        "CICD": "CI/CD",
+        "microservice": "Microservices",
+        "micro-services": "Microservices",
+        "server-less": "Serverless"
+      }
+    },
+    "Data Science & ML": {
+      "skills": [
+        "Machine Learning", "Deep Learning", "Natural Language Processing",
+        "Computer Vision", "Data Analysis", "Data Visualization",
+        "Statistical Analysis", "A/B Testing", "Predictive Modeling",
+        "Neural Networks", "Reinforcement Learning",
+        "Feature Engineering", "Data Mining", "Data Warehousing",
+        "ETL", "Data Pipeline", "Data Modeling",
+        "Time Series Analysis", "Anomaly Detection",
+        "Recommendation Systems", "Generative AI",
+        "Large Language Models", "Prompt Engineering",
+        "RAG", "Fine-tuning", "Transfer Learning",
+        "MLOps", "Model Deployment", "Experiment Tracking",
+        "Regression", "Classification", "Clustering",
+        "Random Forest", "XGBoost", "Gradient Boosting",
+        "Convolutional Neural Networks", "Transformers",
+        "GANs", "Autoencoders", "BERT", "GPT"
+      ],
+      "aliases": {
+        "NLP": "Natural Language Processing",
+        "ML": "Machine Learning",
+        "DL": "Deep Learning",
+        "CV": "Computer Vision",
+        "CNN": "Convolutional Neural Networks",
+        "CNNs": "Convolutional Neural Networks",
+        "LLM": "Large Language Models",
+        "LLMs": "Large Language Models",
+        "GenAI": "Generative AI",
+        "Gen AI": "Generative AI",
+        "Retrieval Augmented Generation": "RAG"
+      }
+    },
+    "Tools & Platforms": {
+      "skills": [
+        "Git", "GitHub", "GitLab", "Bitbucket",
+        "Jira", "Confluence", "Trello", "Asana", "Notion",
+        "Visual Studio Code", "IntelliJ IDEA", "PyCharm", "Eclipse",
+        "Postman", "Swagger", "Insomnia",
+        "Figma", "Adobe XD", "Sketch",
+        "Tableau", "Power BI", "Looker",
+        "Jupyter Notebook", "Google Colab",
+        "Slack", "Microsoft Teams",
+        "Webpack", "Vite", "Babel", "ESLint", "Prettier",
+        "npm", "yarn", "pip", "conda",
+        "Maven", "Gradle",
+        "Databricks", "Snowpark",
+        "Kafka", "RabbitMQ", "ActiveMQ",
+        "Twilio", "Stripe", "SendGrid"
+      ],
+      "aliases": {
+        "VS Code": "Visual Studio Code",
+        "VSCode": "Visual Studio Code",
+        "IntelliJ": "IntelliJ IDEA",
+        "Apache Kafka": "Kafka",
+        "Apache Maven": "Maven",
+        "Jupyter": "Jupyter Notebook",
+        "Colab": "Google Colab"
+      }
+    },
+    "Web Technologies": {
+      "skills": [
+        "HTML", "CSS", "REST API", "GraphQL", "WebSockets",
+        "HTTP", "HTTPS", "JSON", "XML", "YAML",
+        "AJAX", "OAuth", "JWT", "SAML", "SSO",
+        "Responsive Design", "Progressive Web Apps",
+        "WebRTC", "Server-Sent Events",
+        "CORS", "Content Security Policy",
+        "Web Accessibility", "SEO",
+        "WebAssembly", "Service Workers",
+        "API Gateway", "gRPC", "Protocol Buffers",
+        "Webhooks", "OpenAPI", "Swagger"
+      ],
+      "aliases": {
+        "HTML5": "HTML",
+        "CSS3": "CSS",
+        "RESTful API": "REST API",
+        "RESTful": "REST API",
+        "REST": "REST API",
+        "PWA": "Progressive Web Apps",
+        "WASM": "WebAssembly",
+        "JSON Web Token": "JWT",
+        "Single Sign-On": "SSO",
+        "a11y": "Web Accessibility"
+      }
+    },
+    "Soft Skills": {
+      "skills": [
+        "Communication", "Leadership", "Problem Solving",
+        "Team Collaboration", "Project Management",
+        "Agile", "Scrum", "Kanban",
+        "Critical Thinking", "Time Management",
+        "Adaptability", "Creativity", "Analytical Skills",
+        "Presentation Skills", "Mentoring",
+        "Strategic Planning", "Decision Making",
+        "Conflict Resolution", "Negotiation",
+        "Cross-functional Collaboration",
+        "Stakeholder Management", "Requirements Gathering",
+        "Technical Writing", "Public Speaking"
+      ],
+      "aliases": {
+        "Teamwork": "Team Collaboration",
+        "Agile Methodology": "Agile",
+        "Agile Methodologies": "Agile",
+        "Scrum Master": "Scrum",
+        "Written Communication": "Communication",
+        "Verbal Communication": "Communication",
+        "Interpersonal Skills": "Communication"
+      }
+    },
+    "Testing & QA": {
+      "skills": [
+        "Unit Testing", "Integration Testing", "End-to-End Testing",
+        "Test Automation", "Performance Testing", "Load Testing",
+        "Selenium", "Jest", "PyTest", "JUnit", "Cypress",
+        "Mocha", "Chai", "Playwright", "TestNG",
+        "TDD", "BDD", "Cucumber",
+        "API Testing", "Security Testing",
+        "Regression Testing", "Smoke Testing",
+        "Test Planning", "Quality Assurance",
+        "Robot Framework", "Appium"
+      ],
+      "aliases": {
+        "Test Driven Development": "TDD",
+        "Behavior Driven Development": "BDD",
+        "E2E Testing": "End-to-End Testing",
+        "QA": "Quality Assurance",
+        "Automated Testing": "Test Automation"
+      }
+    },
+    "Security": {
+      "skills": [
+        "Cybersecurity", "Penetration Testing", "Encryption",
+        "Authentication", "Authorization",
+        "OWASP", "SSL/TLS", "Firewall",
+        "Network Security", "Security Auditing",
+        "Vulnerability Assessment", "Incident Response",
+        "Identity Management", "Access Control",
+        "Data Encryption", "PKI",
+        "SOC", "SIEM", "Zero Trust",
+        "Compliance", "GDPR", "HIPAA", "PCI DSS"
+      ],
+      "aliases": {
+        "InfoSec": "Cybersecurity",
+        "Information Security": "Cybersecurity",
+        "Pen Testing": "Penetration Testing",
+        "IAM": "Identity Management",
+        "MFA": "Authentication",
+        "Multi-Factor Authentication": "Authentication",
+        "TLS": "SSL/TLS",
+        "SSL": "SSL/TLS"
+      }
+    }
+  }
+}
